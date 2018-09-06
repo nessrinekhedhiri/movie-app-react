@@ -1,0 +1,60 @@
+Header{
+    margin-left:19%;
+    width: 31%;
+    padding: 5%;
+}
+.title_year
+{
+  margin-left: 79px;
+  border: 2px solid black;
+  padding: 17px;
+  width: 196px;
+  text-align: center;
+}  
+
+input{
+    WIDTH: 353PX;
+    HEIGHT: 48PX;
+}
+button{
+    height: 51px;
+}
+.search{
+    display: flex;
+}
+.rating-search{
+margin-top: 84px;
+ margin-left: 9%;
+}
+.movie-list{
+    display: flex;
+    Flex-wrap: wrap;
+    justify-content: center;
+}
+.image
+{
+  border: 2px solid black;
+  width: 74%;
+    height: 322px;
+  margin-left: 25%;
+  background-size: 100%;;
+  background-repeat: no-repeat;
+
+}
+.movie
+{
+  margin-top: 5%;
+}
+.rating
+{
+  
+    margin-left: 43%;
+    height: 20px;
+}
+.btn
+{
+    width: 14%;
+    height: 23%;
+    margin-top: 12%;
+    margin-left: 4%;
+}
